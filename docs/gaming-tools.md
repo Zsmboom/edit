@@ -41,8 +41,8 @@
 * [Archiverse](https://archiverse.pretendo.network/) - Miiverse Archive
 * [How Denuvo Works](https://rentry.co/FMHYBase64#how-denuvo-works)
 * [Game Cracking / Repacking Guides](https://rentry.co/FMHYBase64#game-cracking-guides)
-
-***
+* [fisch macro](https://fischmacroo.com)
+* [R.E.P.O MOD](https://repomod.com)
 
 ## ▷ Steam / Epic
 
